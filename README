@@ -1,0 +1,1 @@
+Visual of the calculator might bug on Windows because tkinter doesn't convert well between Linux and Windows.
